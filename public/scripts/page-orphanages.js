@@ -15,7 +15,7 @@ L.tileLayer(
 
 // create icon
 const icon = L.icon({
-    iconUrl: "/images/map-marker.svg",
+    iconUrl: "/images/logoHappyAnim.gif",
     iconSize: [58, 68],
     iconAnchor: [29, 68],
     popupAnchor: [170, 2],
