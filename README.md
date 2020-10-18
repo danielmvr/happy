@@ -11,7 +11,7 @@
   </a>
 </p>
 
-<img alight="center" alt="Logo Happy Animada" src="/public/images/logoHappyAnim.gif">
+<img align="center" alt="Logo Happy Animada" src="/public/images/logoHappyAnim.gif">
 
 > O Happy é um projeto para facilitar visitas aos orfanatos próximos a você!
 > Este é um projeto desenvolvido durante a [NLW](https://nextlevelweek.com/), realizada pela [@Rocketseat](https://github.com/Rocketseat) durante os dias 12 a 18 de Outubro de 2020.
